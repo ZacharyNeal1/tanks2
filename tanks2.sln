@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tanks2", "tanks2\tanks2.csproj", "{D256BA50-77B4-43EB-A7A5-BADB519C47E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D256BA50-77B4-43EB-A7A5-BADB519C47E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D256BA50-77B4-43EB-A7A5-BADB519C47E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D256BA50-77B4-43EB-A7A5-BADB519C47E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D256BA50-77B4-43EB-A7A5-BADB519C47E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39550AB6-F399-46E3-88DA-785C881B8D3E}
+	EndGlobalSection
+EndGlobal
